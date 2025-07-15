@@ -1,0 +1,16 @@
+2/30 days coding challenge (13-12-24).
+===========================================
+NotesSociety
+================================================
+NotesSociety link: https://notessociety.netlify.app/
+
+=======================================================
+follow on WhatsApp group by website..
+============================================================
+   
+ <script src="script.js"></script> 
+
+//Link the JS file to the HTML first.
+===================================================
+Use this code and impress your crush
+===================================================
